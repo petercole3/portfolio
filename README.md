@@ -1,4 +1,32 @@
-Prologue by HTML5 UP
+# Portfolio
+
+### **Feature 1**
+
+Number and name of feature: Refactor the CSS
+
+Estimate of time needed to complete: 2hr
+
+Start time: 11:30am
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+### **Feature 2**
+
+Number and name of feature: Modify the contents
+
+Estimate of time needed to complete: 2hr
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+## 
+
+### Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
